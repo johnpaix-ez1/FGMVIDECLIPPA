@@ -1,0 +1,10 @@
+moviepy
+rich
+yt-dlp
+openai-whisper
+nltk
+ffmpeg-python
+opencv-python
+spacy
+pytest
+pytest-mock
